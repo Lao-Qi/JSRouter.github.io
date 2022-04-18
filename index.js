@@ -3,27 +3,27 @@ const siteTitle = "JS原生路由切换";
 // 前端所有的路由
 const routers = {
     '404': {
-        page: '/pages/404.html',
+        page: './pages/404.html',
         title: `404 | ${siteTitle}`,
         description: "Page not found"
     },
     '/' : {
-        page: '/pages/home.html',
+        page: './pages/home.html',
         title: `Home | ${siteTitle}`,
         description: "Home Page"
     },
     '/about': {
-        page: '/pages/about.html',
+        page: './pages/about.html',
         title: `About | ${siteTitle}`,
         description: "About Page"
     },
     '/contact': {
-        page: '/pages/contact.html',
+        page: './pages/contact.html',
         title: `Contact | ${siteTitle}`,
         description: "Contact Page"
     },
     '/services': {
-        page: '/pages/services.html',
+        page: './pages/services.html',
         title: `Services | ${siteTitle}`,
         description: "Services Page"
     }
