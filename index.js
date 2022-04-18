@@ -7,7 +7,7 @@ const routers = {
         title: `404 | ${siteTitle}`,
         description: "Page not found"
     },
-    '/JSRouter.github.io' : {
+    '/JSRouter.github.io/' : {
         page: '/JSRouter.github.io/pages/home.html',
         title: `Home | ${siteTitle}`,
         description: "Home Page"
