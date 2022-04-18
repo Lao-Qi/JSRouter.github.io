@@ -7,22 +7,22 @@ const routers = {
         title: `404 | ${siteTitle}`,
         description: "Page not found"
     },
-    '/' : {
+    '/JSRouter.github.io/' : {
         page: '/JSRouter.github.io/pages/home.html',
         title: `Home | ${siteTitle}`,
         description: "Home Page"
     },
-    '/about': {
+    '/JSRouter.github.io/about': {
         page: '/JSRouter.github.io/pages/about.html',
         title: `About | ${siteTitle}`,
         description: "About Page"
     },
-    '/contact': {
+    '/JSRouter.github.io/contact': {
         page: '/JSRouter.github.io/pages/contact.html',
         title: `Contact | ${siteTitle}`,
         description: "Contact Page"
     },
-    '/services': {
+    '/JSRouter.github.io/services': {
         page: '/JSRouter.github.io/pages/services.html',
         title: `Services | ${siteTitle}`,
         description: "Services Page"
