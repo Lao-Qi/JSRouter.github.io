@@ -12,11 +12,6 @@ const routers = {
         title: `Home | ${siteTitle}`,
         description: "Home Page"
     },
-    '/JSRouter.github.io/' : {
-        page: '/JSRouter.github.io/pages/home.html',
-        title: `Home | ${siteTitle}`,
-        description: "Home Page"
-    },
     '/JSRouter.github.io/about': {
         page: '/JSRouter.github.io/pages/about.html',
         title: `About | ${siteTitle}`,
